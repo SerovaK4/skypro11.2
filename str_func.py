@@ -1,4 +1,4 @@
-def str_func_upper(user_string):
+def str_func(user_string):
     return user_string.upper()
 
 
